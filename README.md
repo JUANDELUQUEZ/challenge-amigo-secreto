@@ -11,8 +11,8 @@ El usuario puede ingresar los nombres de sus amigos y sortear aleatoriamente qui
 
 ## 🚀 Demo
 
-👉 [Ver el proyecto en GitHub Pages](https://github.com/JUANDELUQUEZ/challenge-amigo-secreto.git)  
-_(Reemplaza el enlace con tu propio GitHub Pages cuando lo actives)_
+👉 [Ver el proyecto en GitHub Pages]([https://github.com/JUANDELUQUEZ/challenge-amigo-secreto.git](https://juandeluquez.github.io/challenge-amigo-secreto/))  
+
 
 ---
 
