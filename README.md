@@ -46,5 +46,5 @@ El usuario puede ingresar los nombres de sus amigos y sortear aleatoriamente qui
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/TU-USUARIO/TU-REPO.git
+   git clone https://github.com/JUANDELUQUEZ/challenge-amigo-secreto.git
    ```
